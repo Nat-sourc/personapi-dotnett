@@ -13,11 +13,13 @@ namespace personapi_dotnet.Controllers
             _logger = logger;
         }
 
+        //GET: Home
         public IActionResult Index()
         {
             return View();
         }
 
+        //GET: Home/Privacy
         public IActionResult Privacy()
         {
             return View();
