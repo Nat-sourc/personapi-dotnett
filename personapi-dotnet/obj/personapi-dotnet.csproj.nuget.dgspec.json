@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Desktop\\Nueva carpeta (3)\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\Nueva carpeta (4)\\personapi-dotnett\\personapi-dotnett\\personapi-dotnett\\personapi-dotnet\\personapi-dotnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Desktop\\Nueva carpeta (3)\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\Nueva carpeta (4)\\personapi-dotnett\\personapi-dotnett\\personapi-dotnett\\personapi-dotnet\\personapi-dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Nueva carpeta (3)\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Nueva carpeta (4)\\personapi-dotnett\\personapi-dotnett\\personapi-dotnett\\personapi-dotnet\\personapi-dotnet.csproj",
         "projectName": "personapi-dotnet",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Nueva carpeta (3)\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Nueva carpeta (4)\\personapi-dotnett\\personapi-dotnett\\personapi-dotnett\\personapi-dotnet\\personapi-dotnet.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Nueva carpeta (3)\\personapi-dotnet\\personapi-dotnet\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Nueva carpeta (4)\\personapi-dotnett\\personapi-dotnett\\personapi-dotnett\\personapi-dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,6 +62,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.6, )"
             }
           },
           "imports": [
